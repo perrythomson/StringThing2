@@ -15,4 +15,5 @@ public class JsonRestController {
     public String test() {
         return "<h1>This is a test...</h1>";
     }
+
 }
